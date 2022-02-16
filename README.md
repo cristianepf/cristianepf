@@ -1,4 +1,4 @@
-- 😉 Sou <b>Cristiane Franz</b>, atualmente estou buscando aprender programação pois gosto muito de encontrar soluções para problemas e necessidades que as pessoas encontram no dia-a-dia; organizar, agilizar e simplificar processos de trabalho e acredito que a programação vai me ajudar ainda mais com isso.
+- 😉 Sou <b>Cristiane Franz</b>, atualmente estou buscando aprender programação pois gosto muito de encontrar soluções para problemas e necessidades que as pessoas encontram no dia-a-dia; e também organizar, agilizar e simplificar processos de trabalho. Acredito que a programação vai me ajudar ainda mais com isso. ;)
 - 📫 Telegram @cristianepf
 
 <!---
